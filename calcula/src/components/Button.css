@@ -1,0 +1,26 @@
+.btn{
+background-color: rgb(81, 0, 255);
+border: 1px solid #2222;
+border-radius:5px;
+padding:5px;
+margin: 5px;
+font-size: 20px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+width: 60px;
+height: S0px;
+}
+
+.btn:hover {
+background-color: #ddd;
+}
+
+.btn.equal {
+background-color: #f76c6c;
+color:white;
+border: none;
+}
+
+.btm.equal:hover {
+background-color: #ff5252;
+}
