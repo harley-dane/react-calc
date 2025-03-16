@@ -8,11 +8,11 @@ font-size: 20px;
 cursor: pointer;
 transition: background-color 0.3s ease;
 width: 60px;
-height: S0px;
+height: 51px;
 }
 
 .btn:hover {
-background-color: #ddd;
+background-color: wheat;
 }
 
 .btn.equal {
